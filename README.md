@@ -1,3 +1,3 @@
 # HPAS LAB
-Conti Alessandro
-Gennaretti Edoardo
+- Conti Alessandro
+- Gennaretti Edoardo
